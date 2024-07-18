@@ -5,14 +5,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-wnascx@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wnascx@gmail.com)](mailto:nascx@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/nascx?label=follow&style=social)](https://github.com/nascx)
 
-## Sobre mim
+## I'm Wesley Nascimento
 
-- 🎓 Estudando Engenharia da Computação na Uninorte.
-- 💼 Trabalhando como Analista de Engenharia no Grupo MK.
-- 🌱 Aprendendo mais sobre Python.
+( JavaScript | TypeScript | React JS | Node JS | Python | HTML | CSS )
 
+- 🎓 Computer Engineering Student.
+- 💼 Engineering Analyst at MK Group.
+  
 <a href="https://github.com/nascx" title="Perfil do Wesley">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nascx&theme=dracula&show_icons=true" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nascx&theme=dracula&show_icons=true" />
 </a>
 
 
