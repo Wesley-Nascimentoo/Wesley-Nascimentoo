@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=nascx&color=006bed)
+
+# Hi There :wave:
 [![Linkedin](https://img.shields.io/badge/-Wesley_Nascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-nascimento-260486303/)](https://www.linkedin.com/in/wesley-nascimento-260486303/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wnascx@gmail.com)](mailto:SEU-EMAIL)
+[![Gmail Badge](https://img.shields.io/badge/-wnascx@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wnascx@gmail.com)](mailto:nascx@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/nascx?label=follow&style=social)](https://github.com/nascx)
 
 ## Sobre mim
