@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=nascx&color=006bed)
 
-# Hi, i'm Wesley Nascimento :wave:
+# Hi, i'm Wesley :wave:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
