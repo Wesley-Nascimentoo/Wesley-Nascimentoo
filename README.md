@@ -4,13 +4,14 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=mysql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
-![JavaScript](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
+![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![React](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
+![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 - 🎓 Computer Engineering Student.
 - 💼 Engineering Analyst at MK Group.
