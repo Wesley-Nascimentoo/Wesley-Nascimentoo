@@ -14,7 +14,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 - 🎓 Computer Engineering Student.
-- 💼 Engineering Analyst at MK Group.
+- 💼 Engineering Analyst at Mondial.
   
 <a href="https://github.com/nascx" title="Perfil do Wesley">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nascx&theme=dracula&show_icons=true" />
