@@ -10,7 +10,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![React](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 - 🎓 Computer Engineering Student.
