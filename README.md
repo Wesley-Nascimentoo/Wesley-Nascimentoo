@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Wesley-Nascimentoo&color=006bed)
-
 # Hi, i'm Wesley :wave:
 
 - 🎓 Computer Engineering.
